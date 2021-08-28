@@ -1,4 +1,4 @@
-# 3 pop Frontend tools that everyone should learn
+# Three pop Frontend tools that everyone should learn
 
 ### Next.Js
 
